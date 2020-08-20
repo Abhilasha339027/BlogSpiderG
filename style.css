@@ -2,6 +2,7 @@
     display:flex;
     width:100%;
     justify-content:space-between;
+    align-items: center;
 }
 
 .all-form{
@@ -31,11 +32,7 @@
     margin: 20px;
     font-weight: bold;
   }
-  .content .main-content .recent-post-title .all-form{
-    float: right;
-    padding-left: 100px;
-    color: black;
-}
+  
 
 .content .main-content .post .read-more{
     border: 1px solid #005255;
